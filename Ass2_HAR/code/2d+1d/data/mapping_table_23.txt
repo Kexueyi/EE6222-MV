@@ -1,0 +1,6 @@
+0	Jump
+1	Run
+2	Sit
+3	Stand
+4	Turn
+5	Walk
